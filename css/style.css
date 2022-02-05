@@ -1,0 +1,125 @@
+/* &display=swap */
+
+@import "null.css";
+@font-face {
+	font-family: "Lato-Black";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Lato-Bold";
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Lato-Regular";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+body {
+	font-family: "Lato-Regular";
+	font-size: 20px;
+	left: 346px;
+	/* text-align: left;
+	vertical-align: Center; */
+	height: 120px;
+}
+
+h1 {
+	width: 810px;
+	top: 190px;
+	height: 120px;
+	left: 345px;
+	font-family: "Lato";
+	font-weight: 900;
+	color: #1e212c;
+	/* line-height: 59, 8px; */
+	font-size: 46px;
+	/* margin: 0 0 40px 0; */
+}
+.block {
+	left: 345px;
+	top: 936px;
+	width: 810px;
+	height: 182px;
+	margin: 0 0 20px 0;
+}
+.text1 {
+	color: #424551;
+	font-weight: 800;
+	font-size: 16px;
+	/* text-align: left;
+	line-height: 26px;
+	height: 234px;
+	width: 774px;
+	top: 936px; */
+}
+.text2 {
+	color: #424551;
+	font-weight: 800;
+	font-size: 16px;
+	/* text-align: left;
+	line-height: 26px;
+	height: 234px;
+	width: 774px;
+	top: 936px; */
+}
+.text {
+	width: 774px;
+	top: 190px;
+	font-family: "Lato";
+	font-weight: bold;
+	color: #1e212c;
+	margin: 0 0 24px 0;
+}
+ul {
+	height: 116px;
+	width: 573.3333129882812px;
+	top: 1410px;
+	border-radius: 0px;
+	line-height: 1.625;
+	color: #424551;
+	text-align: left;
+	font-size: 16px;
+	margin: 0 0 24px 0;
+}
+.vtor {
+	top: 1334px;
+	width: 774px;
+	height: 52px;
+	color: #424551;
+	font-size: 16px;
+	margin: 0 0 24px 0;
+}
+a {
+	text-decoration: underline;
+	color: grey;
+}
+.text3 {
+	font-size: 16px;
+	font-family: "Lato";
+	font-style: normal;
+}
+.text4 {
+	/* border: 1px solid red; */
+	font-family: "Lato";
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+
+	vertical-align: top;
+	width: 810px;
+	left: 345px;
+	top: 1166px;
+	height: 120px;
+	padding-left: 40px;
+}
+.klava {
+	margin: 0 0 60px 0;
+}
